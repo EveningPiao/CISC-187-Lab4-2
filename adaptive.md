@@ -1,8 +1,6 @@
-// 4/2
+// 4/2  
 #include <iostream>
-
 using namespace std;
-
 int main() {
     // initialize an array
     int data[50] = {
