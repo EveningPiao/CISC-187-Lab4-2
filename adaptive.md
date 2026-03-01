@@ -1,6 +1,6 @@
-// 4/2  
-#include <iostream>
-using namespace std;
+```
+#include <iostream>  
+using namespace std;  
 int main() {
     // initialize an array
     int data[50] = {
@@ -10,6 +10,7 @@ int main() {
         63, 21, 8, 74, 49, 31, 87, 5, 59, 14,
         91, 33, 76, 2, 47, 68, 25, 80, 19, 56
     };
+```
 
     // Analyze reverse order pairs (determine current state)
     int inversions = 0;
